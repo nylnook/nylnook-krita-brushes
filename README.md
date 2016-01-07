@@ -14,16 +14,19 @@ I usually use them on a large canvas (mininimum 2K)... so theses presets may loo
 
 ### Small icons
 
-![Nylnook rotation icon](icons/icon-rotation.png)
 Brushes with a rotation icon are meant to be used with a Stylus **supporting rotation** like the [Wacom Art Pen](https://www.wacom.com/en-us/store/pens/art-pen) (the best stylus I know if you want my opinion). This allow to do thick and thin strokes, essentials for inking.
 Theses brushes can be used with a stylus not supporting rotation, but are less interesting in this case.
+![Nylnook rotation icon](icons/icon-rotation.png)
 
-![Nylnook mix icon](icons/icon-mix.png)
 Brushes with a drop icon mix there colors with the color already on the canvas... so they feel "wet".
+![Nylnook mix icon](icons/icon-mix.png)
+
 
 Mixing and Rotation use more computing power than other brushes, especially when they are combined with textures. Should work on any recent computer nevertheless ;)
 
 ### Naming
+
+![Nylnook Brush pack icon presentation](icons/icon-presentation.png)
 
 As Krita tagging system is sometimes capricious, every brush preset start with "Nylnook" to quickly find them. Then they are sorted by types :
 - **Airbrush** is a textured airbrush for shading, it's more interesting with a texture ;)

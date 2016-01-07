@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280"
+   height="1280"
+   viewBox="0 0 1280 1280"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon-presentation.svg"
+   inkscape:export-filename="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/icon-presentation.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58101528"
+     inkscape:cx="586.52501"
+     inkscape:cy="777.85425"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1367"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="256,0"
+       orientation="1,0"
+       id="guide4684"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="512,0"
+       orientation="1,0"
+       id="guide4686"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1024,0"
+       orientation="1,0"
+       id="guide4688"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="768,0"
+       orientation="1,0"
+       id="guide4690"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,256"
+       orientation="0,1"
+       id="guide4692"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,512"
+       orientation="0,1"
+       id="guide4694"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,768"
+       orientation="0,1"
+       id="guide4696"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,1024"
+       orientation="0,1"
+       id="guide4698"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,227.63784)">
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Airbrush.png"
+       xlink:href="final icons/Nylnook Airbrush.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4727"
+       x="1.4210855e-14"
+       y="-227.63783" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Basic.png"
+       xlink:href="final icons/Nylnook Basic.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4738"
+       x="256"
+       y="-227.63783" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Basic Fill.png"
+       xlink:href="final icons/Nylnook Basic Fill.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4749"
+       x="512"
+       y="-227.63783" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Basic Rotation.png"
+       xlink:href="final icons/Nylnook Basic Rotation.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4760"
+       x="768"
+       y="-227.63783" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Block &amp; Mix.png"
+       xlink:href="final icons/Nylnook Block &amp; Mix.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4771"
+       x="1024"
+       y="-227.63783" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Erase Hard.png"
+       xlink:href="final icons/Nylnook Erase Hard.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4782"
+       x="0"
+       y="28.36216" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Erase Soft.png"
+       xlink:href="final icons/Nylnook Erase Soft.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4793"
+       x="256"
+       y="28.36216" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Fill or Erase Shape.png"
+       xlink:href="final icons/Nylnook Fill or Erase Shape.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4804"
+       x="512"
+       y="28.36216" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Ball.png"
+       xlink:href="final icons/Nylnook Ink Ball.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4815"
+       x="768"
+       y="28.36216" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Basic Pen.png"
+       xlink:href="final icons/Nylnook Ink Basic Pen.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4826"
+       x="1024"
+       y="28.36216" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Detail.png"
+       xlink:href="final icons/Nylnook Ink Detail.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4837"
+       x="0"
+       y="284.36215" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Dirty.png"
+       xlink:href="final icons/Nylnook Ink Dirty.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4848"
+       x="256"
+       y="284.36215" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Dotted.png"
+       xlink:href="final icons/Nylnook Ink Dotted.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4859"
+       x="512"
+       y="284.36215" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Large Charlie.png"
+       xlink:href="final icons/Nylnook Ink Large Charlie.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4870"
+       x="768"
+       y="284.36215" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Particles.png"
+       xlink:href="final icons/Nylnook Ink Particles.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4881"
+       x="1024"
+       y="284.36215" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Power Bear Paw.png"
+       xlink:href="final icons/Nylnook Ink Power Bear Paw.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4892"
+       x="0"
+       y="540.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Ink Power Triangle.png"
+       xlink:href="final icons/Nylnook Ink Power Triangle.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4903"
+       x="256"
+       y="540.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Paint &amp; Blend.png"
+       xlink:href="final icons/Nylnook Paint &amp; Blend.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4914"
+       x="512"
+       y="540.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Paint Fuzzy Colors.png"
+       xlink:href="final icons/Nylnook Paint Fuzzy Colors.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4925"
+       x="768"
+       y="540.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Paint Simple Watercolor.png"
+       xlink:href="final icons/Nylnook Paint Simple Watercolor.png"
+       width="256"
+       height="256"
+       preserveAspectRatio="none"
+       id="image4936"
+       x="1024"
+       y="540.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Paint Textured Colors.png"
+       xlink:href="final icons/Nylnook Paint Textured Colors.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4947"
+       x="0"
+       y="796.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Pencil.png"
+       xlink:href="final icons/Nylnook Pencil.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4958"
+       x="256"
+       y="796.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Poska Round.png"
+       xlink:href="final icons/Nylnook Poska Round.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4969"
+       x="512"
+       y="796.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Poska Square.png"
+       xlink:href="final icons/Nylnook Poska Square.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4980"
+       x="768"
+       y="796.36218" />
+    <image
+       sodipodi:absref="/home/nylnook/Crea/nylnook/nylnook-krita-brushes/icons/final icons/Nylnook Poska Triangle.png"
+       xlink:href="final icons/Nylnook Poska Triangle.png"
+       width="255.99998"
+       height="255.99998"
+       preserveAspectRatio="none"
+       id="image4991"
+       x="1024"
+       y="796.36218" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#aad400;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5006"
+       width="758"
+       height="245.99998"
+       x="261"
+       y="-222.63783"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="0"
+       rx="0"
+       y="33.362167"
+       x="5"
+       height="245.99998"
+       width="502"
+       id="rect5019"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#d40055;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffe680;stroke-width:9.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5012"
+       width="482.31519"
+       height="235.95064"
+       x="14.538126"
+       y="545.36224"
+       rx="0"
+       ry="0" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#8787de;stroke-width:9.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5057"
+       width="940.43921"
+       height="245.99998"
+       x="517"
+       y="545.36218"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="0"
+       rx="0"
+       y="801.36218"
+       x="517"
+       height="245.99998"
+       width="758"
+       id="rect5016"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ff0000;stroke-width:9.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#ffcc00;stroke-width:9.99999905;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 774.15619,290.15324 1.08507,-256.791065 499.75874,0 0,501.766805 -768.01297,0.22887 0.15354,256.00432 -502.1405433,0 0,-503.2881 z"
+       id="rect5014"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <rect
+       ry="0"
+       rx="0"
+       y="801.36218"
+       x="-76.718712"
+       height="245.99998"
+       width="327.71872"
+       id="rect4998"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#8787de;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5000"
+       width="246"
+       height="246"
+       x="5"
+       y="-222.63783"
+       rx="0"
+       ry="0" />
+    <rect
+       ry="0"
+       rx="0"
+       y="-222.63783"
+       x="1029"
+       height="245.99998"
+       width="246"
+       id="rect5008"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       ry="0"
+       rx="0"
+       y="33.362175"
+       x="517"
+       height="245.99998"
+       width="246"
+       id="rect5010"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#00aad4;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5002"
+       width="246"
+       height="245.99998"
+       x="261"
+       y="801.36218"
+       rx="0"
+       ry="0" />
+    <rect
+       rx="0"
+       ry="31.6425"
+       y="-67.295555"
+       x="19.472309"
+       height="63.285"
+       width="216.62943"
+       id="rect5065"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="0"
+       ry="31.6425"
+       y="-198.73364"
+       x="523.3183"
+       height="63.285"
+       width="172.81673"
+       id="rect5067"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       rx="0"
+       ry="31.6425"
+       y="-171.95921"
+       x="1069.7599"
+       height="63.285"
+       width="172.81673"
+       id="rect5069"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5073"
+       width="129.00403"
+       height="63.285"
+       x="569.565"
+       y="200.44868"
+       ry="31.6425"
+       rx="0" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5079"
+       width="111.96576"
+       height="63.285"
+       x="469.76944"
+       y="313.6315"
+       ry="31.6425"
+       rx="0" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5081"
+       width="154.56143"
+       height="63.285"
+       x="270.17828"
+       y="813.82642"
+       ry="31.6425"
+       rx="0" />
+    <rect
+       rx="0"
+       ry="31.6425"
+       y="928.22626"
+       x="910.33044"
+       height="63.285"
+       width="154.56143"
+       id="rect5077"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5075"
+       width="142.39125"
+       height="63.285"
+       x="1012.56"
+       y="595.97998"
+       ry="31.6425"
+       rx="0" />
+    <rect
+       rx="0"
+       ry="31.6425"
+       y="648.31177"
+       x="125.35299"
+       height="63.285"
+       width="250.70595"
+       id="rect5071"
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       style="opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect5063"
+       width="187.42094"
+       height="63.285"
+       x="153.34441"
+       y="199.23167"
+       ry="31.6425"
+       rx="0" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="129.51997"
+       y="-18.042492"
+       id="text5033"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5035"
+         x="129.51997"
+         y="-18.042492">Airbrush</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d40055;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="244.74017"
+       y="247.07196"
+       id="text5037"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5039"
+         x="244.74017"
+         y="247.07196">Erase</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="637.0387"
+       y="250.87065"
+       id="text5041"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5043"
+         x="637.0387"
+         y="250.87065">Fill</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5049"
+       y="695.79559"
+       x="251.38336"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:-10px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe680;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+       xml:space="preserve"><tspan
+         y="695.79559"
+         x="251.38336"
+         id="tspan5051"
+         sodipodi:role="line">Power Ink</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5053"
+       y="645.89783"
+       x="1086.5083"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#8787de;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;"
+       xml:space="preserve"><tspan
+         y="645.89783"
+         x="1086.5083"
+         id="tspan5055"
+         sodipodi:role="line">Paint</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5059"
+       y="861.09399"
+       x="348.34286"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="861.09399"
+         x="348.34286"
+         id="tspan5061"
+         sodipodi:role="line">Pencil</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="989.5058"
+       y="978.0083"
+       id="text5045"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5047"
+         x="989.5058"
+         y="978.0083">Poska</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5025"
+       y="359.54108"
+       x="530.32129"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffcc00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="359.54108"
+         x="530.32129"
+         id="tspan5027"
+         sodipodi:role="line">Ink</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text5029"
+       y="-151.05405"
+       x="610.42419"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#aad400;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="-151.05405"
+         x="610.42419"
+         id="tspan5031"
+         sodipodi:role="line">Basic</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:81.99383545px;line-height:100%;font-family:LetsTrace;-inkscape-font-specification:'LetsTrace Medium';text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#00aad4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999964px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="1154.3025"
+       y="-123.05392"
+       id="text5021"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan5023"
+         x="1154.3025"
+         y="-123.05392">Block</tspan></text>
+  </g>
+</svg>
