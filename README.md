@@ -6,7 +6,7 @@ Brushes presets for digital painting with [Krita](https://krita.org/).
 
 ## Installation
 
-Download the bundle, In Krita, go to *Settings > Manage Resources… > Import Bundle/Resource*, and make sure the bundle is in the *Active Bundles* column.
+[Download the bundle](https://github.com/nylnook/nylnook-krita-brushes/releases/download/v1/Nylnook_Brushes_Presets_v1.bundle), In Krita, go to *Settings > Manage Resources… > Import Bundle/Resource*, and make sure the bundle is in the *Active Bundles* column.
 
 ## Usage
 
@@ -43,7 +43,7 @@ Compatible with Krita 2.9, and next point releases at least ;)
 
 ## Changelog :
 
-**January 7th 2016**: 25 brushes crafted for and with Krita 2.9, used for [my comics](http://nylnook.com/en/comics/).. This is v1 !
+**January 7th 2016**: 25 brushes crafted for and with Krita 2.9, used for [my comics](http://nylnook.com/en/comics/)... This is version 1 !
 
 **April 24th 2015**: 12 brushes I craft since Krita 2.8, and finalized with Krita 2.9... They are working, but more work is needed ! This is a beta.
 
