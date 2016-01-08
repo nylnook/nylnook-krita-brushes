@@ -10,7 +10,8 @@ Brushes presets for digital painting with [Krita](https://krita.org/).
 
 ## Presentation video
 
-[![Nylnook Brush pack presentation video](icons/icon-nylnook-brush-pack.png)](https://youtu.be/_2K6aPA_MuU)
+[![Nylnook Brush pack presentation video](http://img.youtube.com/vi/_2K6aPA_MuU/0.jpg)](https://youtu.be/_2K6aPA_MuU)
+*click to see !*
 
 ## Usage
 
