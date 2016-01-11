@@ -6,7 +6,7 @@ Brushes presets for digital painting with [Krita](https://krita.org/).
 
 ## Installation
 
-[Download the bundle](https://github.com/nylnook/nylnook-krita-brushes/releases/download/v1/Nylnook_Brushes_Presets_v1.bundle), In Krita, go to *Settings > Manage Resources… > Import Bundle/Resource*, and make sure the bundle is in the *Active Bundles* column on the left.
+[Download the bundle](https://github.com/nylnook/nylnook-krita-brushes/releases/download/v1.1/Nylnook_Brushes_Presets_v1.1.bundle), In Krita, go to *Settings > Manage Resources… > Import Bundle/Resource*, and make sure the bundle is in the *Active Bundles* column on the left.
 
 ## Presentation Video
 
