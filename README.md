@@ -7,7 +7,7 @@ If you have a [Wacom Art Pen](https://www.wacom.com/en-us/store/pens/art-pen) or
 
 And if you have any other Pen, you will be interested by the Generic Pen version, which emulate rotation on some brushes:   
 ![Nylnook Generic Pen Brush pack icon](icons/icon-nylnook-brush-pack-v2-generic-pen.png)
-Emulation is acheived with brand new Krita features : Drawing Angle Lock, and Fuzzy Dab.
+Emulation is acheived with brand new Krita features : Drawing Angle Lock, and Fuzzy Stroke.
 
 *⚠ When possible, the brushes now use the "Greater" blending mode, which give better results when a stroke overlap another stroke, but works only on a transparent layer !*  
 *If you want to use them on an opaque layer, just switch the blending mode to Normal again*
@@ -18,11 +18,6 @@ Download the [Generic Pen Bundle](nylnook-v2-gen.bundle), or the [Art Pen Bundle
 In Krita, go to *Settings > Manage Resources… > Import Bundle/Resource*, and make sure the bundle is in the *Active Bundles* column on the left.   
 You should choose one of the bundle, and do not install both of them, otherwise the Krita tagging system will be confused with brushes that are common to both packs.  
 
-## Presentation Video
-
-To do  
-*click to see !*
-
 ## Usage
 
 I usually use them on a large canvas (mininimum 2K)... so theses presets may look big on a smaller canvas.
@@ -31,7 +26,7 @@ I usually use them on a large canvas (mininimum 2K)... so theses presets may loo
 
 ![Nylnook rotation icon](icons/icon-rotation-crop.png) Brushes with a rotation icon for the Art Pen pack are meant to be used with a stylus **supporting rotation** like the [Wacom Art Pen](https://www.wacom.com/en-us/store/pens/art-pen) (the best stylus I know if you want my opinion). This allow to do thick and thin strokes, essentials for inking.
 
-![Nylnook rotation generic icon](icons/icon-rotation-generic-crop.png) Brushes with a G with an arrow icon for "Generic rotation" are brushes with **emulated rotation** which can work with any pen, and rely on Krita features Drawing Angle Lock and Fuzzy Dab. Most of them are in the Generic Pen pack, but you can find two in the Art Pen pack when Fuzzy Dab is more intersting than controlled rotation.
+![Nylnook rotation generic icon](icons/icon-rotation-generic-crop.png) Brushes with a G with an arrow icon for "Generic rotation" are brushes with **emulated rotation** which can work with any stylus, and rely on Krita features Drawing Angle Lock and Fuzzy Stroke. Most of them are in the Generic Pen pack, but you can find two in the Art Pen pack when Fuzzy Stroke is more intersting than controlled rotation.
 
 ![Nylnook mix icon](icons/icon-mix-crop.png) Brushes with a drop icon mix there colors with the color already on the canvas... so they feel "wet".
 
@@ -41,7 +36,7 @@ Brushes with mixing and rotation use more computing power than other brushes, es
 
 As Krita tagging system is sometimes capricious, every brush preset start with "Nylnook" to quickly find them. Then they are sorted by types :   
 
-**Aboriginal Dots** : I created this one specifically to mimic australian aboriginal dot painting for a specific projet. Just draw your line and the preset will paint dots along the way in this aboriginal style.  
+**Aboriginal Dots** : I created this one specially to mimic australian aboriginal dot painting for a specific projet. Just draw your line and the preset will paint dots along the way in this aboriginal style.  
 ![Aboriginal Dots presentation](icons/presentation-aboriginal.jpg)  
 
 
@@ -49,12 +44,16 @@ As Krita tagging system is sometimes capricious, every brush preset start with "
 ![Airbrush presentation](icons/presentation-airbrush.jpg)  
 
 
-**Basic** Brushes are the simplest, and the less demanding for your computer. Slightly noising to allow soft mixing between colors.   
+**Basic** Brushes are the simplest, and the less demanding for your computer. Slightly noising to allow soft mixing between colors. Now using the "Greater" Blending mode.   
 ![Basic presentation](icons/presentation-basic.jpg)  
 
 
 **Block** allow to do large blocking of colors in speed painting for example. Noise and not texture to make it quicker.   
 ![Block presentation](icons/presentation-block.jpg)  
+
+
+**Clone Tool** allow to copy part of an image on another part. Define the source spot with Ctrl+clic. With the airbrush  texture for more random mixings.   
+![Clone presentation](icons/presentation-clone.jpg)  
 
 
 **Erase** : One really hard (just erase that mistake now in one stoke) and one soft with a texture for shadings.   
@@ -73,7 +72,7 @@ As Krita tagging system is sometimes capricious, every brush preset start with "
 ![Ink Power presentation](icons/presentation-ink-power.jpg)  
 
 
-**Paint**: Three brushes with rotation and mixing for "real" painting or watercoloring. The last one is meant for quick backgrounds.   
+**Paint**: Three brushes with rotation and mixing for "real" painting or watercoloring.
 ![Paint presentation](icons/presentation-paint.jpg)  
 
 
@@ -91,7 +90,7 @@ Compatible with Krita **3.0.1** (not 3.0), and next point releases at least ;)
 
 ## Changelog
 
-**September 14th 2016**: 35 brushes crafted for and with Krita 3.0.1, used for [my comics](http://nylnook.com/en/comics/)... This is version 2 !
+**September 16th 2016**: 36 brushes crafted for and with Krita 3.0.1, used for [my comics](http://nylnook.com/en/comics/)... This is version 2 !
 
 **January 7th 2016**: 25 brushes crafted for and with Krita 2.9, used for [my comics](http://nylnook.com/en/comics/)... This is version 1 !
 
